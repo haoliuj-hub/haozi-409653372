@@ -1,4 +1,4 @@
-- 👋 Hi, I’m haoliuj
+- 👋 Hi, I’m Hao Liu
 - 👀 I’m interested in Java、Vue、uni-app
 - 🌱 I’m currently learning uni-app
 - 💞️ I’m looking to collaborate on github
